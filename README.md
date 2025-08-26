@@ -33,7 +33,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone (https://github.com/Anthony-Leon6/sacred-soundscapes.git)
+git clone (https://github.com/Anthony-Leon6/sacred-visualizer.git)
 
 
 ## What technologies are used for this project?
