@@ -27,6 +27,8 @@ SacredVis isn’t just a visualizer — it’s a living partner for sound. Wheth
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
+<img width="1238" height="839" alt="Screenshot 2025-08-26 at 2 44 47 PM" src="https://github.com/user-attachments/assets/b540d488-34d4-47cf-890a-530ed47ec33b" />
+
 Follow these steps:
 
 ```sh
@@ -44,4 +46,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-<img width="1238" height="839" alt="Screenshot 2025-08-26 at 2 44 47 PM" src="https://github.com/user-attachments/assets/b540d488-34d4-47cf-890a-530ed47ec33b" />
