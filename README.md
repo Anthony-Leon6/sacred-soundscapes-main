@@ -1,4 +1,4 @@
-# Welcome to soundscapes
+# Welcome to Sacred Soundscapes
 
 SacredVis is a smart audio-reactive visualizer that transforms desktop audio, microphone input, and live sound into living, vibrant visuals. Powered by a built-in Music Brain and Color Brain, it doesn’t just flash lights to beats — it understands rhythm, tone, mood, and emotion, and responds with colors and shapes that feel alive.
 
