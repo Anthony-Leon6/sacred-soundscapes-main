@@ -43,3 +43,5 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+<img width="1238" height="839" alt="Screenshot 2025-08-26 at 2 44 47 PM" src="https://github.com/user-attachments/assets/b540d488-34d4-47cf-890a-530ed47ec33b" />
