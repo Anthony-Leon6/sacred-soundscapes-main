@@ -18,6 +18,9 @@ SacredVis is a smart audio-reactive visualizer that transforms desktop audio, mi
 
 💡 Vision
 
+<img width="1238" height="839" alt="Screenshot 2025-08-26 at 2 44 29 PM" src="https://github.com/user-attachments/assets/5b0fe70d-c237-46c1-b4d5-6df95347c9b9" />
+
+
 SacredVis isn’t just a visualizer — it’s a living partner for sound. Whether you’re vibing to music, performing live, streaming, or just working at your desk, it makes the invisible beauty of sound visible in real time.
 
 ## Project info
