@@ -36,14 +36,7 @@ If you’re new to any of these, don’t worry — part of this project’s spir
 
 Fork the repo and clone your fork locally.
 
- ```git clone https://github.com/Anthony-Leon6/sacred-visualizer.git 
-
- ```cd sacred-visualizer
-
-```npm install
-
-```npm run dev
-
+ git clone https://github.com/Anthony-Leon6/sacred-visualizer.git 
 
 Make your changes 🎨
 
