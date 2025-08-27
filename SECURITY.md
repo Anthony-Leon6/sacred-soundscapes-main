@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Latest Release : https://github.com/Anthony-Leon6/sacred-visualizer/releases/tag/audio-visualizer-ai
+Demo Release : https://github.com/Anthony-Leon6/sacred-visualizer/releases/tag/audio-visualizer-ai
 
 | Version | Supported          |
 | ------- | ------------------ |
