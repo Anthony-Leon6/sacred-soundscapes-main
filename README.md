@@ -2,6 +2,27 @@
 
 SacredVis is a smart audio-reactive visualizer that transforms desktop audio, microphone input, and live sound into living, vibrant visuals. Powered by a built-in Music Brain and Color Brain, it doesn’t just flash lights to beats — it understands rhythm, tone, mood, and emotion, and responds with colors and shapes that feel alive.
 
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone https://github.com/Anthony-Leon6/sacred-visualizer.git
+# Step 2: 
+cd sacred-visualizer
+# Step 3: Install Dependencies
+npm install
+# Step 4: Start the dev server
+npm run dev
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 🌟 Features
 
 🎧 All-Audio Support – Reacts to desktop audio, microphones, and instruments.
@@ -29,20 +50,4 @@ The only requirement is having Node.js & npm installed - [install with nvm](http
 
 <img width="1238" height="839" alt="Screenshot 2025-08-26 at 2 44 47 PM" src="https://github.com/user-attachments/assets/b540d488-34d4-47cf-890a-530ed47ec33b" />
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone (https://github.com/Anthony-Leon6/sacred-visualizer.git)
-
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
