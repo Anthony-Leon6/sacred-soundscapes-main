@@ -28,7 +28,7 @@ React
 shadcn/ui
 
 Tailwind CSS
--------------
+
 If you’re new to any of these, don’t worry — part of this project’s spirit is learning together.
 
 🚀 Getting Started
