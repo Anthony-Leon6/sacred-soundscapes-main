@@ -15,10 +15,10 @@ Docs & Guides → Help make setup easier with tutorials, screenshots, or clarifi
 
 Design & Assets → Logos, shaders, or visual inspiration are super appreciated.
 
-📦 Tech Stack
+📦 Tech Stack--->
 
-Sacred Visualizer is built using:
-
+# Sacred Visualizer is built using:
+------------
 Vite
 
 TypeScript
@@ -28,25 +28,20 @@ React
 shadcn/ui
 
 Tailwind CSS
-
+-------------
 If you’re new to any of these, don’t worry — part of this project’s spirit is learning together.
 
 🚀 Getting Started
 
 Fork the repo and clone your fork locally.
 
-git clone https://github.com/Anthony-Leon6/sacred-visualizer.git
-cd sacred-visualizer
+# git clone https://github.com/Anthony-Leon6/sacred-visualizer.git
 
+# cd sacred-visualizer
 
-Install dependencies
+# npm install
 
-npm install
-
-
-Start the dev server
-
-npm run dev
+# npm run dev
 
 
 Make your changes 🎨
